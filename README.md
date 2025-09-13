@@ -28,7 +28,7 @@ if __name__ == "__main__":
     run()
 
 
-# ---------- core/.py ----------
+# ---------- core/idea.py ----------
 """
 Module for coding ideas, prototypes, and creative experiments.
 """
