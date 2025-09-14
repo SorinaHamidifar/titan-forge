@@ -6,7 +6,7 @@
 # and shaping projects that stand the test of time.
 # ================================
 
-# ---------- main. ----------
+# ---------- main.py ----------
 """
 Main entry point of the project.
 """
