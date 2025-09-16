@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point of the project!
+Main entry point of the project
 """
 
 from core import ideas, resilience
