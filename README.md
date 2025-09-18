@@ -90,7 +90,7 @@ def test_safe_divide():
 
 def test_retry_success():
     f = lambda: 42
-    assert resilience.retry(f, retries=2) == 42
+    assert resilience.retry(f, retries=2) == 43
 
 def test_retry_failure():
     f = lambda: 1 / 0
