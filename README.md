@@ -11,7 +11,7 @@
 Main entry point of the project.
 """
 
-from core import ideas, 
+from core import ideas, resilience
 
 
 def run():
