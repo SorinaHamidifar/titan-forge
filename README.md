@@ -73,7 +73,7 @@ def retry(func, retries=3, delay=1):
             print(f"Attempt {attempt} failed: {e}")
             if attempt < retries:
                 time.sleep(delay)
-    return None/!
+    return None
 
 
 # ---------- tests/test_resilience.py ----------
