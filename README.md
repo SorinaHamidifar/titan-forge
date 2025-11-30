@@ -2,7 +2,7 @@
 # Project: Timeless Code Space
 
 # Description:
-# A powerfull space for crafting and refining code.
+# A powerful space for crafting and refining code.
 # Dedicated to experimenting with ideas, building resilient solutions,
 # and shaping projects that stand the test of time. 
 # ================================
