@@ -4,7 +4,7 @@
 # Description:
 # A powerful space for crafting and refining code.
 # Dedicated to experimenting with ideas, building resilient solutions,
-# and shaing projects that stand the test of time. 
+# and shabing projects that stand the test of time. 
 # ================================
 
 # ---------- main.py ----------
