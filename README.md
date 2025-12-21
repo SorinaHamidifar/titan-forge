@@ -1,5 +1,5 @@
 # ================================
-# Project: Timeless Code Spac
+# Project: Timeless Code Spacing
 
 # Description:
 # A powerful space for crafting and refining code.
