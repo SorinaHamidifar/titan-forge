@@ -80,7 +80,7 @@ def retry(func, retries=3, delay=1):
 # ---------- tests/test_resilience.py ----------
 """
 Basic tests for resilience.py
-Run with: py
+Run with: pytest
 """
 
 from core import resilience
