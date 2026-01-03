@@ -48,7 +48,7 @@ def factorial(n: int) -> int:
 # ---------- core/resilience.py ----------
 """
 Module for resilient and reliable solutions.
-Includes error handling, safe utilities, and retry mechanism.
+Includes error handling, safe utilities, and retry mechanisms.
 """
 
 import time
