@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
 # ---------- core/ideas.py ----------
 """
-Module for coding ideas, prototypes, and creat experiments.
+Module for coding ideas, prototypes, and create experiments.
 """
 
 def reverse_string(s: str) -> str:
