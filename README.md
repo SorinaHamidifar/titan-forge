@@ -17,7 +17,7 @@ from core import ideas, resilience
 
 def run():
     print("🚀 Welcome to the Timeless Code Space")
-    print("🔧 Crafting resilient solutions,  ideas, and experimenting with code.\n")
+    print("🔧 Crafting resilient solutions, re ideas, and experimenting with code.\n")
 
     # Example experiments
     print("💡 Idea Prototype:", ideas.reverse_string("timeless"))
