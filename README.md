@@ -39,7 +39,7 @@ def reverse_string(s: str) -> str:
     return s[::-1]
 
 def factorial(n: int) -> int:
-    """Compute factorial of n recursiv"""
+    """Compute factorial of n recursively."""
     if n <= 1:
         return 1
     return n * factorial(n - 1)
