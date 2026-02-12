@@ -21,7 +21,7 @@ def run():
 
     # Example experiments
     print("💡 Idea Prototype:", ideas.reverse_string("timeless"))
-    print("🛡️ Re Check (safe divide):", resilience.safe_divide(10, 0))
+    print("🛡️ Reslice Check (safe divide):", resilience.safe_divide(10, 0))
     print("🛡️ Resilience Check (retry demo):", resilience.retry(lambda: 1 / 0, retries=3))
 
 
