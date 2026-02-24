@@ -1,5 +1,5 @@
 # ================================
-# Project: Timeless Code Space resili
+# Project: Timeless Code Space resili!
 
 # Description:
 # A powerful space for crafting and refining code.
