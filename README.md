@@ -1,5 +1,5 @@
 # ================================
-# Project: time_lleses Code Space 
+# Project: time_lles Code Space 
 
 # Description:
 # A powerful space for crafting and refining code.
