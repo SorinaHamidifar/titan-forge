@@ -1,5 +1,5 @@
 # ================================
-# Project: Timeless Code Space res
+# Project: Timeless Code Space ress
 
 # Description:
 # A powerful space for crafting and refining code.
