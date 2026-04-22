@@ -3,7 +3,7 @@
 
 # Description:
 # A powerful space for crafting and refining code.
-# Dedicated to experimenting with ideas, building rez solutions,
+# Dedicated to experimenting with ideas, building re solutions,
 # and shaping projects that stand the test of time. 
 # ================================
 
