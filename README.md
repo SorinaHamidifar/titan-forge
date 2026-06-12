@@ -12,7 +12,7 @@
 Main entry point of the project.
 """
 
-from core import ideas, resilience soluti
+from core import ideas, resilience sol
 
 
 def run():
