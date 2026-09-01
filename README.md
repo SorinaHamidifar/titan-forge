@@ -1,5 +1,5 @@
 # ================================
-# Project: Timeless
+# Project: Timeless Co
 
 # Description:
 # A powerful space for crafting and refining code.
