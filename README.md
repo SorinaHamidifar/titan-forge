@@ -1,5 +1,5 @@
 # ================================
-# Project: Timeless Code Space
+# Project: Timeless Code Space and refining code.
 
 # Description:
 # A powerful space for crafting and refining code.
